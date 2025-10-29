@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.title("박채림의 첫 번째 앱✨")
-st.subheader("오늘 저녁 뭐먹지?")
-st.write("하하하! 오늘 석식 고구마튀김")
+st.subheader("배고픈데..")
+st.write("하하하! 어쩔 수 없지!")
 st.write("https://naver.com")
 st.link_button("naver 바로가기","https://naver.com")
 name=st.text_input("이름을 입력해주세요. : ")
